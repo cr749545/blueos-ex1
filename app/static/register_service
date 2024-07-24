@@ -1,9 +1,9 @@
 {
-    "name":"QuickStart",
+    "name":"Ex 1: Hello World",
     "description":"Example Extension",
-    "icon":"mdi-clock",
+    "icon":"mdi-clock-fast",
     "company":"Blue Robotics",
-    "version":"0.0.1",
+    "version":"1.0.0",
     "webpage":"https://example.com",
     "api":""
-}
+ }
